@@ -2,7 +2,7 @@ Get started
 -----------
 Make sure to download the 5gb iso, you can use it in virtualbox or write it to ssd or hdd
 
-To download click this link: https://www.mediafire.com/file/rt3iod45j7lwo8x/Atheros-Winpro.iso/file
+To download click this link: https://www.mediafire.com/file/9zhhz5ylkh7k9pn/Atheros-Winpro.iso/file
 
 Specifications
 --------------
